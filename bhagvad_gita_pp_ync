@@ -1,0 +1,40 @@
+# Privacy Policy — Bhagavad Gita
+
+_Last updated: 2026-07-08_
+
+Bhagavad Gita ("the app", package `com.coretility.bhagavadgita`) is designed to be private by
+default. This policy explains what the app does and does not do with your information.
+
+## Data we collect
+**None.** The app does not collect, transmit, or share any personal data.
+
+## Data stored on your device
+All of your activity — reading progress, likes, saved verses, collections, personal notes, reading
+streaks, and settings — is stored **only on your device** using local storage (an on-device
+database and preferences). This information never leaves your device and is not sent to us or any
+third party.
+
+If you uninstall the app, this locally stored data is removed by the operating system.
+
+## Network access
+The app is fully functional offline. It does not require an account and does not contain
+advertising or third-party analytics/tracking SDKs. Optional features that would use the network
+(such as sharing a verse to another app you choose) only act when you explicitly initiate them.
+
+## Notifications
+If you enable the optional daily "Verse of the Day" reminder, the notification is scheduled locally
+on your device. No notification data is sent to any server.
+
+## Content & attribution
+Scripture text is derived from the open-source `gita/gita` dataset, released into the public domain
+under The Unlicense. Translations and commentaries are displayed with author attribution.
+
+## Children's privacy
+The app does not knowingly collect any data from anyone, including children.
+
+## Changes to this policy
+If this policy changes, the updated version will be posted at this URL with a new "last updated"
+date.
+
+## Contact
+Questions about this policy: **coretility@gmail.com**
