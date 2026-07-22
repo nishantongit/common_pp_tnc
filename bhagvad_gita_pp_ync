@@ -6,7 +6,20 @@ Bhagavad Gita ("the app", package `com.coretility.bhagavadgita`) is designed to 
 default. This policy explains what the app does and does not do with your information.
 
 ## Data we collect
-**None.** The app does not collect, transmit, or share any personal data.
+**No personal data.** We do not collect your name, email, contacts, location, or any content you
+create (notes, collections, reading history).
+
+**Anonymous usage analytics.** When enabled (Settings → Privacy → "Share anonymous usage data",
+on by default), the app sends anonymous, aggregated interaction events to Google Firebase
+Analytics — e.g. that a verse was viewed (chapter/verse number), commentary was expanded, audio was
+played, or a search returned N results.
+
+Never sent: your notes, the text you type into search, which verses you liked/saved, your reading
+history, or any identifier that names you. Search is logged only as a length and a result count.
+
+You can turn analytics off at any time in Settings → Privacy. Analytics are processed by Google as
+our processor (see the Google Privacy Policy and Firebase privacy documentation). No advertising
+identifiers are used.
 
 ## Data stored on your device
 All of your activity — reading progress, likes, saved verses, collections, personal notes, reading
@@ -17,9 +30,9 @@ third party.
 If you uninstall the app, this locally stored data is removed by the operating system.
 
 ## Network access
-The app is fully functional offline. It does not require an account and does not contain
-advertising or third-party analytics/tracking SDKs. Optional features that would use the network
-(such as sharing a verse to another app you choose) only act when you explicitly initiate them.
+The app is fully functional offline — the entire scripture ships inside it. There is no account and
+no advertising. Besides the optional analytics described above, network access happens only when you
+explicitly act (sharing a verse to an app you choose, opening an external link, or rating the app).
 
 ## Notifications
 If you enable the optional daily "Verse of the Day" reminder, the notification is scheduled locally
@@ -30,7 +43,8 @@ Scripture text is derived from the open-source `gita/gita` dataset, released int
 under The Unlicense. Translations and commentaries are displayed with author attribution.
 
 ## Children's privacy
-The app does not knowingly collect any data from anyone, including children.
+The app is suitable for all ages and does not knowingly collect personal data from anyone, including
+children.
 
 ## Changes to this policy
 If this policy changes, the updated version will be posted at this URL with a new "last updated"
