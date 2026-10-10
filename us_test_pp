@@ -1,1 +1,79 @@
+# Privacy Policy
 
+**US Citizenship Test Pro** · Last updated: October 10, 2026
+
+This Privacy Policy explains how **US Citizenship Test Pro** (the "App"), provided by **[Developer / Company Name]** ("we", "us"), handles information when you use it. By using the App you agree to this policy.
+
+> **In short:** US Citizenship Test Pro is an offline study app. It has no user accounts, asks for no sensitive permissions, and stores your study progress only on your device. We do not collect, transmit to our servers, or sell your personal information, and we do not use third-party advertising or tracking.
+
+## 1. Information We Collect
+
+### Information stored only on your device
+To make the App work, the following is saved locally in the App's private storage on your device. It is **not** transmitted to us or any third party:
+
+- Your study progress (questions seen, answered, marked correct/incorrect, mastery, and review schedule).
+- Your preferences and settings (selected test version, daily goal, light/dark theme, audio and playback settings).
+- Optional details you enter yourself, such as a target interview date and your U.S. state (used only to show state-specific answers like your senators, governor, and capital).
+- Favorited/bookmarked questions and your streak and activity counts.
+
+### Information we do *not* collect
+- No account, name, email address, phone number, or password (the App has no sign-in).
+- No location data, contacts, photos, files, or device identifiers for tracking.
+- No information about your immigration status, application, or case.
+- No payment or financial details (see "In-App Purchases" below).
+
+## 2. How Your Information Is Used
+Information stored on your device is used solely to provide the App's features on that device: tracking your progress, scheduling reviews, personalizing your study plan, and remembering your settings. Because this data stays on your device, we cannot see it, and it is not used for advertising or profiling.
+
+## 3. Internet and Offline Use
+The App is designed to work fully offline. All civics questions and content are bundled with the App, and your progress is saved locally. The App itself does not send your study data over the internet.
+
+## 4. Analytics and Tracking
+We do not use third-party analytics, advertising, or tracking SDKs. The App does not display ads and does not build an advertising profile about you. (Any internal event logging is recorded only in the device's local developer console for debugging and is not collected or transmitted.)
+
+## 5. In-App Purchases
+The App offers an optional premium upgrade (for example, a monthly or annual subscription, or a one-time lifetime purchase). All purchases are processed by **Google Play**. We never receive or store your credit card or payment details. Google Play may provide us with limited, non-identifying information needed to validate and maintain your purchase (such as a purchase token and product identifier). Your use of Google Play is governed by Google's own terms and privacy policy. See the [Google Privacy Policy](https://policies.google.com/privacy).
+
+## 6. Text-to-Speech
+If you use the read-aloud feature, the App passes question and answer text to your device's built-in text-to-speech engine, which is part of your operating system. How that engine processes the text is governed by your device and OS provider's settings and policies.
+
+## 7. Third-Party Services
+- **Google Play** — distributes the App and processes in-app purchases.
+- **Your device's text-to-speech engine** — reads content aloud when you choose.
+
+We do not integrate social networks, advertising networks, or external analytics providers.
+
+## 8. Data Sharing and Selling
+We do not sell, rent, or trade your information, and we do not share personal information with third parties for their own marketing. Because the App does not collect your personal information on our servers, there is nothing for us to share.
+
+## 9. Data Retention and Deletion
+Your data lives on your device for as long as the App is installed. You can delete all of it at any time by clearing the App's storage in your device settings or by uninstalling the App. Uninstalling permanently removes your local study data from the device.
+
+## 10. Data Security
+Your study data is stored in the App's private storage, protected by your device's operating-system security. Because we do not transmit or store your data on our servers, the main safeguard is your own device security (screen lock, encryption, and keeping your OS up to date).
+
+## 11. Children's Privacy
+The App is a general-audience educational tool intended for adults preparing for U.S. naturalization. It is not directed to children under 13, and we do not knowingly collect personal information from children. Because the App does not collect personal information from anyone, it does not knowingly collect it from children either.
+
+## 12. Your Privacy Rights
+Depending on where you live (for example, under the EU/UK GDPR or the California CCPA/CPRA), you may have rights to access, correct, or delete personal information a company holds about you. We do not collect or store your personal information on our servers, so we generally have no such data to provide or delete. You remain in full control of the data stored on your device and can delete it as described in Section 9. For any questions, contact us below.
+
+## 13. International Users
+The App can be used from anywhere. Because your data stays on your device and is not transferred to us, no cross-border transfer of your personal data to us takes place.
+
+## 14. Changes to This Policy
+We may update this Privacy Policy from time to time. Material changes will be reflected by updating the "Last updated" date above and, where appropriate, within the App or store listing. Your continued use after an update means you accept the revised policy.
+
+## 15. Not Affiliated with USCIS
+US Citizenship Test Pro is an independent educational study aid. It is not affiliated with, endorsed by, or sponsored by U.S. Citizenship and Immigration Services (USCIS), the U.S. Department of Homeland Security, or any government agency. Always verify current test requirements and official answers at [uscis.gov](https://www.uscis.gov).
+
+## 16. Contact Us
+If you have questions about this Privacy Policy, contact:
+
+**[Developer / Company Name]**
+Email: [your support email]
+Website: [your website, if any]
+
+---
+
+*Template note (remove before publishing): Replace the bracketed placeholders. This document is a good-faith template tailored to how the App currently works and is not legal advice. Have it reviewed by a qualified professional, and keep it in sync with the Google Play "Data safety" form and any future changes (e.g., if you later add analytics, ads, accounts, or cloud sync).*
